@@ -1,6 +1,6 @@
 # Buisness-Insights-360 Using Power BI
 ### Power BI Link
--[BI 360] https://app.powerbi.com/links/aj09wpvp-P?ctid=fc42da63-a990-45bc-8143-320165150d3c&pbi_source=linkShare
+-[BI 360] https://app.powerbi.com/links/aj09wpvp-P?ctid=fc42da63-a990-45bc-8143-320165150d3c&pbi_source=linkShare&bookmarkGuid=0528c0cd-5f1d-4165-8897-7a0b16eb3a13
 
 ## Overview
 Atliq, with its stores and exclusive outlets worldwide, leverages comprehensive Power BI insights across different business domains. The Power BI reports encompass Finance, Sales, Marketing, Supply Chain, and Executive views, each offering unique perspectives and critical metrics for informed decision-making.
