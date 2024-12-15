@@ -40,7 +40,6 @@ Atliq, with its stores and exclusive outlets worldwide, leverages comprehensive 
 - **PC Market Share Trend - Atliq and Competitors**: Trends in market share for PCs with competitor analysis.
 - **Yearly Trend by Revenue, GM%, Net Profit%**: Trends and analysis of yearly financial performance.
 - **Top 5 Customers and Products by Revenue**: Identification of top revenue-generating customers and products.
-![image](https://github.com/user-attachments/assets/b47a1dfb-d561-4b20-aad3-c91d772b7c68)
 ![image](https://github.com/user-attachments/assets/322476a4-1d62-45af-9774-99c2cc4b4d26)
 
 
